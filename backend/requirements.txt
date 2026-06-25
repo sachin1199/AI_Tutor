@@ -1,7 +1,6 @@
 fastapi==0.111.0
 uvicorn==0.29.0
-transformers==4.41.0
-torch==2.3.0
-sentencepiece==0.2.0
+groq
+python-dotenv
 python-multipart==0.0.9
 pydantic==2.7.1
